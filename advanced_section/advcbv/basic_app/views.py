@@ -34,6 +34,7 @@ class SchoolListView(ListView):
 
     # Example of making your own:
     # context_object_name = 'schools'
+    # for loop on school_list.html
     model = models.School
 
 
